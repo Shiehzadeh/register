@@ -17,12 +17,11 @@ import {
 function RegisterForm() {
 
   //================================
-  const showData = () => {
+ /*  const showData = () => {
     <Box>
-      cfdsfcada
-      {/* {v_fields['name']['error']}<FormHelperText error={true}>{v_fields['bio']['errorText']}</FormHelperText> */}
+      {/* {v_fields['name']['error']}<FormHelperText error={true}>{v_fields['bio']['errorText']}</FormHelperText>
     </Box>
-  };
+  }; */
 
   //================================
 
